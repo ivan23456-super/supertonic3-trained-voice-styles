@@ -6,7 +6,7 @@ This is an independent project and is not affiliated with Supertone.
 
 ## Voices
 
-No voices have been published yet. When they are available, you can find the style files in [`voices/`](voices/) and listen to the samples in [`previews/`](previews/). Matching files will share the same name, for example `voices/example.json` and `previews/example.mp3`.
+Find the style files in [`voices/`](voices/) and listen to the samples in [`previews/`](previews/). Matching files share the same name, for example `voices/example.json` and `previews/example.mp3`.
 
 ## Using a voice
 
